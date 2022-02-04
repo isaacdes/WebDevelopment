@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:'Source Serif 4', sans-serif;
+    font-size: 1em;
+}
+
+h1 {
+
+    color:#66bfbf;
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    
+}
+
+h2 {
+
+    color: #66bfbf;
+    font-weight: normal;
+
+}
+
+h3 {
+    color: #11999e;
+}
+
+div.top {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+div.middle {
+    /* background-color: red;
+    width: 200px;
+    height: 200px; */
+}
+
+div.bottom {
+    /* background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px; */
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+
+/* .container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    
+    /* position: relative;
+    left: 200px;
+    display: inline-block; */
+
+    /* position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block;
+    position: relative;
+    right: 100px; */
+/* 
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block;
+    position: relative;
+    right: 100px; */
+/* 
+    position: absolute; 
+}   */
