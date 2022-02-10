@@ -30,12 +30,13 @@ p {
 #title {
     background-color: #ff4c68;
     color: white;
+   
 }
 
 /* Class Selectors */
 
 .container-fluid {
-    padding: 3%  15%;
+    padding: 3%  15% 7%;
 }
 
 /* Navigation Bar */
@@ -67,6 +68,10 @@ p {
 .title-img {
     width: 60%;
     transform: rotate(25deg);
+    right: 50%;
+    /* position: absolute; */
+    /* z-index: -1; */
+   
 }
 
 /* Features */
@@ -74,6 +79,9 @@ p {
     
     font-family: Arial, Helvetica, sans-serif;
     padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 
 .feature-box {
@@ -133,4 +141,38 @@ p {
 .pricing-col {
     padding: 3% 2%;
     
+}
+
+#cta {
+    background-color: #ff4c68;
+    font-family: "Montserrat-Black";
+    text-align: center;
+    color: white;
+    padding: 7% 15%;
+}
+
+#footer {
+    text-align: center;
+    font-family: "Montserrat-Light";
+    padding: 5% 15% 1%;
+}
+
+.link {
+    text-decoration: none;
+    color: grey;
+    margin-bottom: 5%;
+    margin-top: auto;
+}
+
+/* Media Query */
+@media(max-width: 1217px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
 }
