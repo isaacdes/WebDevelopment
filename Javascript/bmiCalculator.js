@@ -1,6 +1,6 @@
 //Create your function below this line.
 function bmiCalculator(weight, height) {
-    var bmi = Math.round(weight/height**2);
+    var bmi = (weight/height**2).toFixed(1);
     return bmi;
     
 }
@@ -19,5 +19,16 @@ bmi should equal 20 when it's rounded to the nearest whole number.
 */
 var bmi = bmiCalculator(65, 1.8);
 console.log(bmi);
+// bmi=25
+
+if( bmi < 18.5){
+    console.log( "Your BMI is "+bmi +", so you are underweight." )
+}
+else if (bmi === 18.5 || bmi<= 24.9){
+    console.log( "Your BMI is "+bmi +", so you have a normal weight.")
+}
+else{
+    console.log( "Your BMI is "+bmi +", so you are overweight.")
+}
 
 
