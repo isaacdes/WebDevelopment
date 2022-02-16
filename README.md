@@ -12,4 +12,4 @@
 \
 [DOM](DOM/)
 \
-[Exercise](Exercise_1/)
+[Exercise](Excercise_1/)
