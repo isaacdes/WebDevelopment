@@ -8,4 +8,8 @@
 \
 [Bootstrap:TinDog](Bootstap-MySite/)
 \
-[JavaScript](Javascript/)
+[JavaScript](Javascript/) 
+\
+[DOM](DOM/)
+\
+[Exercise](Exercise_1/)
