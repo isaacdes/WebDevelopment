@@ -13,4 +13,9 @@
 [DOM](DOM/)
 \
 # Exercises :-
-[Exercise](Excercise/)
+[Exercise 1](Excercise/1/)\
+[Exercise 2](Excercise/2/)\
+[Exercise 3](Excercise/3/)\
+[Exercise 4](Excercise/4/)\
+[Exercise 5](Excercise/5/)\
+[Exercise 6](Excercise/6/)\
