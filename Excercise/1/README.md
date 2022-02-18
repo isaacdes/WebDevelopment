@@ -1,0 +1,1 @@
+# Create a Sticky footer which attach a footer to the bottom of the viewport when page content is short.
