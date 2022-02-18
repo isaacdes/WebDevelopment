@@ -1,0 +1,22 @@
+
+body {
+    background-color: #e7717d;
+    text-align: center;
+}
+.container-fluid {
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    padding: 2%;
+    
+}
+
+#footer {
+    background-color:#c2cad0 ;
+    
+    padding: 3% 15% 0%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+        
+}

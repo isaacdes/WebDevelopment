@@ -45,6 +45,8 @@ body{
 
 .form-div {
     padding: 0 15%;
+    min-width: 100%;
+    max-width: 100%;
    
    
 }
