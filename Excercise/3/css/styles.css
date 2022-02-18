@@ -1,0 +1,30 @@
+body {
+
+    text-align: center;
+    background-color: #e7717d;
+}
+
+.container-fluid {
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    padding: 2%;
+
+
+}
+
+#title {
+    overflow: hidden;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+
+
+#mainContent {
+    padding: 16px;
+    margin-top: 100px;
+
+}
