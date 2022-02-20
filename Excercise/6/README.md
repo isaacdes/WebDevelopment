@@ -1,0 +1,1 @@
+6.	Create a responsive navbar without JavaScript.
