@@ -11,7 +11,7 @@ body {
 }
 
 
-/* List component */
+
 .list{
     background-color: #FFF;
     list-style: none;
@@ -29,7 +29,7 @@ body {
         border-bottom: 1px solid #EEE;
     }
 
-        /*list item image wrapper*/
+       
         .list .list-item__image{
             flex-shrink: 0;
             height: 80px;
@@ -40,7 +40,7 @@ body {
                 height: 80px;
             }
 
-        /*list item content*/
+        
         .list .list-item__content{
             flex-grow: 1;
             padding: 0 20px;
