@@ -1,0 +1,1 @@
+4.	Make a form stays centered, even when zoomed out or in.
